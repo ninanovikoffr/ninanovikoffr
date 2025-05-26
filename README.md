@@ -32,7 +32,7 @@ Focused on strengthening programming foundations and exploring creative areas su
 
 ## Languages
 
-- 🗣️ Portuguese: Native  
+- 💬 Portuguese: Native  
 - 🌍 English: Fluent
 
 ---
