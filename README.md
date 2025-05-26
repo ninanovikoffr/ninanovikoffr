@@ -1,5 +1,3 @@
-# ninanovikoffr
-
 # Nina Novikoff
 
 Undergraduate student in **Computer Science** at **UFLA – Universidade Federal de Lavras**.  
