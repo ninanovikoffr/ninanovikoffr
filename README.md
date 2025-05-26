@@ -35,7 +35,11 @@ Focused on strengthening programming foundations and exploring creative areas su
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninanovikoffr&theme=gruvbox&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninanovikoffr&theme=vue&show_icons=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ninanovikoffr&theme=vue&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninanovikoffr&theme=vue&date_format=M%20j%5B%2C%20Y%5D)
 
 ---
 
