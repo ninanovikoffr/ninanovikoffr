@@ -8,7 +8,7 @@ Focused on strengthening programming foundations and exploring creative areas su
 ## About Me
 
 - 🎓 Currently pursuing a B.Sc. in Computer Science at UFLA  
-- 📌 Interests: algorithms, software development, 3D modeling, animation, and applied computing  
+- 📌 Interests: algorithms, software development, 3D modeling, animation, UI/UX design and front-end development. 
 - 📖 Committed to continuous learning in both technical and visual computing fields  
 - 🛠️ Involved in academic projects focused on problem solving and technical growth
 
@@ -18,7 +18,7 @@ Focused on strengthening programming foundations and exploring creative areas su
 
 - 💠 C++: Intermediate  
 - 🐍 Python: Beginner  
-- 📊 Jupyter Notebook: Basic experience with data analysis and experimentation  
+- 📊 Jupyter Notebook: Basic experience  
 - ⚙️ Git: Basic knowledge  
 - 🎨 Blender: Exploring 3D modeling and animation
 
