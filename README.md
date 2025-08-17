@@ -21,8 +21,9 @@ Focused on strengthening programming foundations and exploring creative areas su
 - 📊 Jupyter Notebook: Basic experience  
 - ⚙️ Git: Basic knowledge  
 - 🎨 Blender: Exploring 3D modeling and animation  
-- ⚛️ React + Vite: Beginner  
-- 🖌️ UI/UX Design: Exploring with Figma and creative projects  
+- ⚛️ React + Vite: Intermediate  
+- 🌐 HTML & CSS: Intermediate  
+- 🖌️ UI/UX Design: Beginner, with practical experience in Figma  
 
 ---
 
