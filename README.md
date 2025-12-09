@@ -1,16 +1,19 @@
 # Nina Novikoff 🧿
 
-Undergraduate student in **Computer Science** at **UFLA – Universidade Federal de Lavras**.  
-Focused on strengthening programming foundations and exploring creative areas such as 3D modeling and animation.
+Undergraduate student **currently pursuing a B.Sc. in Computer Science at UFLA – Universidade Federal de Lavras**.  
+Designer and **Front-End Developer** at **Emakers Jr.**, and research student in a VR project applied to telemedicine in the post-pandemic context.
 
 ---
 
 ## About Me
 
-- 🎓 Currently pursuing a B.Sc. in Computer Science at UFLA  
-- 📌 Interests: algorithms, software development, 3D modeling, animation, UI/UX design and front-end development.  
-- 📖 Committed to continuous learning in both technical and visual computing fields  
-- 🛠️ Involved in academic projects focused on problem solving and technical growth  
+- 🎓 Currently enrolled in the Computer Science program at UFLA  
+- 🧩 Designer and Front-End Developer at **Emakers Jr.**  
+- 🕶️ Research member in a **Scientific Initiation project focused on Virtual Reality for telemedicine**, exploring immersive technologies for healthcare in a post-pandemic scenario  
+- 🧍‍♀️ Within this project, I contribute specifically to the **development of realistic human avatars**, working with **rigging, weight painting, and real-time body motion mapping**    
+- 🎮 Strong interest in **game development**, **interactive systems**, **3D character creation**, and **VR experiences**  
+- 🎨 Expanding knowledge in modeling, rigging, deformation and real-time rendering  
+- 📖 Focused on continuous development in software engineering and visual computing  
 
 ---
 
@@ -18,27 +21,36 @@ Focused on strengthening programming foundations and exploring creative areas su
 
 - 💠 C++: Intermediate  
 - 🐍 Python: Beginner  
-- 📊 Jupyter Notebook: Basic experience  
-- ⚙️ Git: Basic knowledge  
-- 🎨 Blender: Exploring 3D modeling and animation  
+- ⚙️ Git: Intermediate 
+- 🎨 Blender: Modeling, rigging, weight painting, setup for real-time motion  
 - ⚛️ React + Vite: Intermediate  
 - 🌐 HTML & CSS: Intermediate  
-- 🖌️ UI/UX Design: Beginner, with practical experience in Figma  
+- 🖌️ UI/UX Design (Figma): Practical experience  
+- 🕶️ VR & Real-Time Motion Mapping: foundational understanding, evolving through research  
 
 ---
 
 ## 💻 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+
+---
+
+
+## Areas of Interest
+
+- Game development and real-time interactive experiences  
+- Digital humans, rigging and deformation  
+- 3D modeling and real-time graphics  
+- Front-end development and interface design  
+- Animation and cinematics for films and games  
 
 ---
 
@@ -59,7 +71,5 @@ Focused on strengthening programming foundations and exploring creative areas su
 
 ## Projects
 
-Most of my repositories are related to academic assignments and personal learning.  
-Recently, I’ve been expanding into creative and front-end development projects.
-
-More personal and creative projects are coming soon.  
+My repositories currently contain academic coursework and front-end development projects.  
+New creative and technical projects will be released soon.
