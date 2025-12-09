@@ -63,7 +63,6 @@ Designer and **Front-End Developer** at **Emakers Jr.**, and research student in
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ninanovikoffr&theme=tokyonight&show_icons=true&count_private=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninanovikoffr&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ninanovikoffr&theme=tokyo-night&hide_border=true)  
 
